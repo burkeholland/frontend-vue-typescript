@@ -19,6 +19,7 @@
                 Create a list anonymously, or login to save, manage and edit
                 your lists
               </p>
+              
             </div>
           </div>
           <div class="column is-half is-hidden-mobile">
